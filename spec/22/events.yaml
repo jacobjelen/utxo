@@ -1106,13 +1106,17 @@
 
 - id: team-building-najdi-partaka
   type: workshop
-  name: Team Building - najdi parťáky na budování crypto projektů
+  name: Networking pro krypto podnikavce
   track: spolecnost
   speakers: [ jacob-jelen ]
   duration: 80
   difficulty: advanced
   tags:
     - networking
+  description: |
+    Networking pro všechny, kteří mají chuť uplatnit svoje dovednosti ve světě blockchainu. V první části budeš mít možnost poznat zapálené lidi se stejným zájmem a začít konverzace, které tě nakopnou novým směrem. Nebude to ale jen o vyměňovaní vizitek! V druhé části si uděláme rychlý brainstorm a pomůžeme ti vymyslet nebo rozvinout nápad na projekt. Přijď sám nebo s kamarády, s nápadem nebo bez… můžeš odejít s obojím a možná i vyhrát nějakou cenu ;-]
+    
+    Prosíme zájemce o vyplnění [krátkého formuláře](https://form.jotform.com/jacobjelen/utxo22-networking) (2 minuty) 
 
 - id: jak-si-posichrovat-a-rozlozit-portfolio
   type: workshop
